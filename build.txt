@@ -1,0 +1,4 @@
+displayName = Calamity Rare Recipes
+author = ScuttleBaka
+version = 0.2.0.1
+weakReferences = CalamityMod

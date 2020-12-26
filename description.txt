@@ -1,0 +1,13 @@
+This mod aims to add recipes for rare items in the calamity mod
+
+Current Recipes Added -
+Shrine Items
+Legendaries
+Rare Item Variants
+Murasama
+Yharim's Crystal
+Halibut Cannon
+[Charging Station and Power Cell Factory recipes temporarily removed due to a bug in v2.0]
+
+Planned Recipes/Other Stuff -
+Icon for the mod
